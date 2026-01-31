@@ -1,4 +1,4 @@
-# 🌌 Welcome to [Твое Имя]'s Space Station 🌌
+# 🌌 Welcome to Z1txw's Space Station 🌌
 
 <p align="center">
   <img src="./banner.png" alt="Space Banner" width="100%">
