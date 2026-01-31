@@ -1,4 +1,4 @@
-# 🌌 Welcome to Z1txw's Space Station 🌌
+# 🌌 Welcome to Z1txw's repository 🌌
 
 <p align="center">
   <img src="./pexels-felix-mittermeier-1205301.jpg" alt="Space Banner" width="100%">
