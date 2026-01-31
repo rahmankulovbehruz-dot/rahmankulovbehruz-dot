@@ -28,8 +28,9 @@
 - [ ] **CyberSecurity:** Основы тестирования на проникновение, инструменты и их логику.
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmankulovbehruz-dot&theme=tokyonight&show_icons=true&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=rahmankulovbehruz-dot&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=600)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmankulovbehruz-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=600)
 
 ### 📡 Соц.сети
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/Z1teexNewer)
