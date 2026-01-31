@@ -27,6 +27,10 @@
 - [ ] **Backend:** Глубокое погружение в Django и создание ботов на Aiogram для фона.
 - [ ] **CyberSecurity:** Основы тестирования на проникновение, инструменты и их логику.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmankulovbehruz-dot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 📡 Соц.сети
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/Z1teexNewer)
 
