@@ -29,7 +29,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rahmankulovbehruz-dot&show_icons=true&theme=tokyonight&hide_border=true" alt="My Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rahmankulovbehruz-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ### 📡 Соц.сети
