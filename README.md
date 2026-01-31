@@ -15,19 +15,20 @@
 
 ### 🛠 Мой стек технологий (Payload)
 
-| Инструменты |
-
-| **Frontend** | `html [basic], css [super-basic]` цель js |
-| **Backend** | `Python, fastapi, go` |
-| **Control** | `GitHub` `VS Code` |
+| Направление | Инструменты |
+| :--- | :--- |
+| **Frontend** | `html [basic]` `css [super-basic]` цель js |
+| **Backend** | `Python`, `FastAPI`, `Go` |
+| **Control** | `GitHub`, `VS Code` |
 
 
 ### 🛰 Сейчас я изучаю (Researching)
-- [ ] **БАЗУ: GOLANG, C++ для бюстрых скриптов и для души** —
-- [ ] **ПОДВИНУТЫЙ УРОВЕНЬ: DJANGO, AIOGRAM** — 
+- [ ] **База:** Go и C++ для высокопроизводительных скриптов.
+- [ ] **Backend:** Глубокое погружение в Django и создание ботов на Aiogram для фона.
+- [ ] **CyberSecurity:** Основы тестирования на проникновение, инструменты и их логику.
 
-### 📡Соц.сети:
-[![](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/Z1teexNewer)
+### 📡 Соц.сети
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/Z1teexNewer)
 
 ---
 <p align="center">
