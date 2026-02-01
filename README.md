@@ -29,7 +29,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rahmankulovbehruz-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=rahmankulovbehruz-dot&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ### 📡 Соц.сети
