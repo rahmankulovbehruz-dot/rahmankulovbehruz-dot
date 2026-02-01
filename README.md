@@ -26,7 +26,8 @@
 - [ ] **База:** Go и C++ для высокопроизводительных скриптов.
 - [ ] **Backend:** Глубокое погружение в Django и создание ботов на Aiogram для фона.
 - [ ] **CyberSecurity:** Основы тестирования на проникновение, инструменты и их логику.
-- [ ] 
+
+
 ![WakaTime](https://img.shields.io/badge/WakaTime-Tracking-blueviolet?style=for-the-badge&logo=wakatime)
 
 
