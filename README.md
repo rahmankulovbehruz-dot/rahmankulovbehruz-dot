@@ -28,7 +28,7 @@
 - [ ] **CyberSecurity:** Основы тестирования на проникновение, инструменты и их логику.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ziteex&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://wakatime-analytics.vercel.app/api?username=Ziteex&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ### 📡 Соц.сети
