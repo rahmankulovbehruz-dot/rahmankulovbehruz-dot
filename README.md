@@ -29,7 +29,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=Ziteex&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=Ziteex&layout=compact&theme=tokyonight&hide_border=true&update=true" alt="WakaTime Stats" />
 </p>
 
 
