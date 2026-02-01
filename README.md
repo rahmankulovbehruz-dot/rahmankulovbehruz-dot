@@ -27,15 +27,9 @@
 - [ ] **Backend:** Глубокое погружение в Django и создание ботов на Aiogram для фона.
 - [ ] **CyberSecurity:** Основы тестирования на проникновение, инструменты и их логику.
 
-
 <p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=Ziteex&layout=compact&theme=tokyonight&hide_border=true&custom_title=My%20Coding%20Time" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ziteex&layout=compact&theme=tokyonight&display_format=pdf&hide_border=true" alt="WakaTime Stats" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/wakatime?username=Ziteex&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-</p>
-
 
 ### 📡 Соц.сети
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/Z1teexNewer)
